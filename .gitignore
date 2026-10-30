@@ -1,0 +1,25 @@
+# Local editor / OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Installers and archives belong in release attachments, not Git history
+/artifacts/
+*.exe
+*.msi
+*.dmg
+*.pkg
+*.AppImage
+*.deb
+*.rpm
+*.apk
+*.aab
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tar.xz
+
+# Local editorial notes, maintenance guides, and release drafts
+/local-docs/
