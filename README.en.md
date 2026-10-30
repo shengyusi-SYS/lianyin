@@ -6,7 +6,7 @@
 
 # LianYin · 涟音
 
-[中文](README.md) · English · [Website](https://lianyin.eztools.fun/en/)
+[中文](README.md) · English · [Website](https://lianyin.eztools.fun)
 
 LianYin is a distributed, cross-platform local music player that lets your devices work together.
 
